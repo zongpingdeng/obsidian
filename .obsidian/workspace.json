@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f9c2fca48d3d74d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "806ef6f0674eb69e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882bde1d5dc99678",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56d804eeaffa0217",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3063f88aa2ea3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905331aa75206fdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdde5d263e206100",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a1f5202a5e7a420",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cab288221771a4c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f3665faea226b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d00be067fdd6b02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25b44cb89b2da2a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f32cf53eaf24415d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77907f2ff214865d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "882bde1d5dc99678",
+  "lastOpenFiles": [
+    "2022-12-09.md",
+    "自我介绍.md",
+    "Compact Sets.md",
+    "Closed and Open Sets.md",
+    "latex sym.md",
+    "2022-10-11.md",
+    "Least Upper Bounds.md",
+    "mapping.md",
+    "The Real Field.md",
+    "Topological Defifinitions.md"
+  ]
+}
